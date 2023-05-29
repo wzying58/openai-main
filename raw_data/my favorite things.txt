@@ -1,0 +1,5 @@
+Question: What's my favorite food?
+Answer: spicy hotpot with seafood
+
+Question: what's my last film I watched?
+Answer: Wallace and Gromit
